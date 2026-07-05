@@ -36,5 +36,6 @@ PatientView is a full-stack healthcare management platform designed to help clin
 
 ## Privacy Notice
 
-All screenshots and examples use demo data only.
+This web appilcation is currently being used and evaluated by practicing medical professionals.
+So all the screenshots and examples use demo data only.
 No real patient information, prescriptions, doctor records, or clinic data are included.
