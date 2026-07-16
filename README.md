@@ -1,6 +1,6 @@
 # PatientView Showcase
 
-PatientView is a full-stack healthcare management platform designed to help clinics manage patient queues, consultations, and digital prescriptions.
+PatientView is a full-stack healthcare management platform designed to help clinics manage patient queues, consultations, and digital prescriptions(patientview.lk).
 
 > This is a public showcase repository. Production code, real patient data, environment variables, and private clinic data are not included.
 
